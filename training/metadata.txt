@@ -1,0 +1,4 @@
+Model: RandomForest
+Version: v1
+AUC: 0.84
+Date: 2026-02-07
