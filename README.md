@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ML Monitoring System
 
 End-to-end ML system with drift detection and monitoring.
@@ -10,10 +9,15 @@ End-to-end ML system with drift detection and monitoring.
 - Random Forest model
 - Saved reference data
 
+## Week 2
+- Script-based training pipeline
+- Config-driven model training
+- Data validation
+- Model versioning
+- Inference simulation
+
+
 ## Tech
 - Python
 - Scikit-learn
 - Pandas
-=======
-# ml-monitoring-system
->>>>>>> 29f14c383b2516303fcfca8e88d6fba99a199849

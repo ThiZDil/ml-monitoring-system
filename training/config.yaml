@@ -1,0 +1,7 @@
+model:
+  type: random_forest
+  n_estimators: 300
+  random_state: 42
+
+data:
+  test_size: 0.2
